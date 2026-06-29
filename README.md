@@ -1,11 +1,15 @@
-# Hi there 👋, I'm Tanishk Gautam
-
+# Hellooooo 👋, I'm Tanishk Gautam
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&duration=3500&pause=1000&color=00BFFF&center=true&vCenter=true&width=700&lines=Hi+I'm+Tanishk+Gautam;AI+%26+ML+Student;Python+Developer;Building+Real+World+Projects;Future+AI+Engineer" />
+</p>
 ### 💻 B.Tech Computer Science (AI & ML) Student
 
 I am passionate about **Artificial Intelligence, Machine Learning, Python Development, and Software Engineering**. I enjoy building practical projects that solve real-world problems while continuously improving my programming and problem-solving skills.
 
 ---
-
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=TechyGautam&label=Profile%20Views&color=0e75b6&style=flat" />
+</p>
 ## 🚀 Currently Learning
 
 * 🤖 Machine Learning
@@ -59,13 +63,12 @@ Command-line password management application built with Python to practice Objec
 
 ---
 
-## 🎯 2026 Goals
+## 🎯 Current Focus
 
-* Build 10+ high-quality AI projects
-* Master Machine Learning
-* Learn NLP & LLMs
-* Contribute to Open Source
-* Secure an internship at a top tech company
+- Building AI & ML Projects
+- Learning NLP & LLMs
+- Improving DSA
+- Preparing for Software Engineering Internships
 
 ---
 
@@ -74,4 +77,14 @@ Command-line password management application built with Python to practice Objec
 * 📧 Email: [tanishkgautam19@gmail.com](mailto:tanishkgautam19@gmail.com)
 * 💼 LinkedIn: https://www.linkedin.com/in/tanishk-gautam-a70075383
 * 💻 GitHub: https://github.com/TechyGautam
+## 📊 GitHub Stats
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=TechyGautam&show_icons=true&theme=github_dark" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TechyGautam&layout=compact&theme=github_dark" height="180"/>
+</p>
+## 🔥 Contribution Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=TechyGautam&theme=github-dark"/>
+</p>
