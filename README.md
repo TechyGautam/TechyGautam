@@ -17,6 +17,9 @@ I am passionate about **Artificial Intelligence, Machine Learning, Python Develo
 ---
 
 ## 🛠️ Tech Stack
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,java,html,css,javascript,git,github,vscode,sqlite" />
+</p>
 
 ### Programming Languages
 
