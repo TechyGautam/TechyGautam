@@ -1,16 +1,74 @@
-## Hi there 👋
+# Hi there 👋, I'm Tanishk Gautam
 
-<!--
-**TechyGautam/TechyGautam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 💻 B.Tech Computer Science (AI & ML) Student
 
-Here are some ideas to get you started:
+I am passionate about **Artificial Intelligence, Machine Learning, Python Development, and Software Engineering**. I enjoy building practical projects that solve real-world problems while continuously improving my programming and problem-solving skills.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 Currently Learning
+
+* 🤖 Machine Learning
+* 🐍 Advanced Python
+* 📊 Data Analysis
+* 🌐 Streamlit
+* 🧠 Large Language Models (LLMs)
+
+---
+
+## 🛠️ Tech Stack
+
+### Programming Languages
+
+* Python
+* Java (Basic)
+* HTML
+* CSS
+* JavaScript (Basic)
+
+### Libraries & Tools
+
+* Pandas
+* NumPy
+* Scikit-learn
+* Streamlit
+* Matplotlib
+* SQLite
+* Git
+* GitHub
+* VS Code
+
+---
+
+## 📌 Featured Projects
+
+### 🏠 House Price Prediction
+
+Machine Learning web application built using Python, Scikit-learn, Random Forest, and Streamlit.
+
+### 💰 Expense Tracker
+
+A feature-rich expense management application with analytics dashboard, SQLite database, CSV import, and Object-Oriented Programming.
+
+### 🔐 CLI Password Manager
+
+Command-line password management application built with Python to practice Object-Oriented Programming and file handling.
+
+---
+
+## 🎯 2026 Goals
+
+* Build 10+ high-quality AI projects
+* Master Machine Learning
+* Learn NLP & LLMs
+* Contribute to Open Source
+* Secure an internship at a top tech company
+
+---
+
+## 📫 Connect With Me
+
+* 📧 Email: [tanishkgautam19@gmail.com](mailto:tanishkgautam19@gmail.com)
+* 💼 LinkedIn: https://www.linkedin.com/in/tanishk-gautam-a70075383
+* 💻 GitHub: https://github.com/TechyGautam
+
